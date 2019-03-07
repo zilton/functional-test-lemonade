@@ -1,0 +1,26 @@
+{
+  "workflow" : {
+      "file" : "/path/to/my/workflow_to_test_example.txt",
+      "list" : [12,32,53,200]
+  },
+
+  "email" : {
+    "sender" : {
+      "login" : "my_email@blah.com",
+      "password" : "my_PassWord"
+    },
+
+    "to" : {
+      "file" : "/path/to/my/contacts_example.txt"
+    },
+
+    "message" : {
+      "file" : "/path/to/my/message_example.txt"
+    }
+  },
+
+  "lemonade" : {
+      "login" : "login_lemonade@blah.com",
+      "password" : "lemonade_PassWord"
+  }
+}

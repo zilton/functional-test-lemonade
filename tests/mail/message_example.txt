@@ -1,0 +1,10 @@
+${PERSON_NAME},
+
+This is a message from LEMONADE Test Module.
+
+Automatic tests were performed at ${DATE} and the following workflows
+presented errors during the respective executions.
+
+${STATUS_REPORT}
+
+Please, contact the responsible person.
